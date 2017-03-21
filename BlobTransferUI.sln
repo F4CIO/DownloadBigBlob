@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownloadBigBlob", "DownloadBigBlob\DownloadBigBlob.csproj", "{EC4089E8-9676-4720-8E71-01218749188C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CraftSynth.BuildingBlocks.Generated", "CraftSynth.BuildingBlocks.Generated\CraftSynth.BuildingBlocks.Generated.csproj", "{E5ED9146-E478-4204-B5AA-AF9BFA8EF153}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CraftSynth_Debug_With_Full_Building_Blocks|Any CPU = CraftSynth_Debug_With_Full_Building_Blocks|Any CPU
+		CraftSynth_Debug_With_Full_Building_Blocks|Mixed Platforms = CraftSynth_Debug_With_Full_Building_Blocks|Mixed Platforms
+		CraftSynth_Debug_With_Full_Building_Blocks|x86 = CraftSynth_Debug_With_Full_Building_Blocks|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC4089E8-9676-4720-8E71-01218749188C}.CraftSynth_Debug_With_Full_Building_Blocks|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4089E8-9676-4720-8E71-01218749188C}.CraftSynth_Debug_With_Full_Building_Blocks|Any CPU.Build.0 = Debug|Any CPU
+		{EC4089E8-9676-4720-8E71-01218749188C}.CraftSynth_Debug_With_Full_Building_Blocks|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{EC4089E8-9676-4720-8E71-01218749188C}.CraftSynth_Debug_With_Full_Building_Blocks|Mixed Platforms.Build.0 = Debug|Any CPU
+		{EC4089E8-9676-4720-8E71-01218749188C}.CraftSynth_Debug_With_Full_Building_Blocks|x86.ActiveCfg = Debug|Any CPU
+		{EC4089E8-9676-4720-8E71-01218749188C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4089E8-9676-4720-8E71-01218749188C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4089E8-9676-4720-8E71-01218749188C}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{EC4089E8-9676-4720-8E71-01218749188C}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{EC4089E8-9676-4720-8E71-01218749188C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EC4089E8-9676-4720-8E71-01218749188C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4089E8-9676-4720-8E71-01218749188C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC4089E8-9676-4720-8E71-01218749188C}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{EC4089E8-9676-4720-8E71-01218749188C}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{EC4089E8-9676-4720-8E71-01218749188C}.Release|x86.ActiveCfg = Release|Any CPU
+		{E5ED9146-E478-4204-B5AA-AF9BFA8EF153}.CraftSynth_Debug_With_Full_Building_Blocks|Any CPU.ActiveCfg = CraftSynth_Debug_With_Full_Building_Blocks|Any CPU
+		{E5ED9146-E478-4204-B5AA-AF9BFA8EF153}.CraftSynth_Debug_With_Full_Building_Blocks|Any CPU.Build.0 = CraftSynth_Debug_With_Full_Building_Blocks|Any CPU
+		{E5ED9146-E478-4204-B5AA-AF9BFA8EF153}.CraftSynth_Debug_With_Full_Building_Blocks|Mixed Platforms.ActiveCfg = CraftSynth_Debug_With_Full_Building_Blocks|Any CPU
+		{E5ED9146-E478-4204-B5AA-AF9BFA8EF153}.CraftSynth_Debug_With_Full_Building_Blocks|Mixed Platforms.Build.0 = CraftSynth_Debug_With_Full_Building_Blocks|Any CPU
+		{E5ED9146-E478-4204-B5AA-AF9BFA8EF153}.CraftSynth_Debug_With_Full_Building_Blocks|x86.ActiveCfg = CraftSynth_Debug_With_Full_Building_Blocks|Any CPU
+		{E5ED9146-E478-4204-B5AA-AF9BFA8EF153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5ED9146-E478-4204-B5AA-AF9BFA8EF153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5ED9146-E478-4204-B5AA-AF9BFA8EF153}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{E5ED9146-E478-4204-B5AA-AF9BFA8EF153}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{E5ED9146-E478-4204-B5AA-AF9BFA8EF153}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E5ED9146-E478-4204-B5AA-AF9BFA8EF153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5ED9146-E478-4204-B5AA-AF9BFA8EF153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5ED9146-E478-4204-B5AA-AF9BFA8EF153}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{E5ED9146-E478-4204-B5AA-AF9BFA8EF153}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{E5ED9146-E478-4204-B5AA-AF9BFA8EF153}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
